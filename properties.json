@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Apartment",
+        "price": "$500,000",
+        "location": "New York",
+        "image": "apartment.jpg",
+        "energyRating": "A",
+        "features": ["3 Bedrooms", "2 Bathrooms", "Swimming Pool"]
+    },
+    {
+        "id": 2,
+        "name": "Cozy Cottage",
+        "price": "$250,000",
+        "location": "Countryside",
+        "image": "cottage.jpg",
+        "energyRating": "B",
+        "features": ["2 Bedrooms", "1 Bathroom", "Garden"]
+    }
+]
